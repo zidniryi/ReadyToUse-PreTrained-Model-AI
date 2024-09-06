@@ -1,6 +1,6 @@
 # Curated List of Pre-Trained AI Models
 
-This repository contains a collection of **pre-trained AI models** in TensorFlow Lite (`.tflite`) format, along with their corresponding label files (`labels.txt`). These models are designed for tasks such as image classification for cats, dogs, birds, and color recognition and others will be updated regularly.
+This repository contains a collection of **pre-trained AI models** in TensorFlow Lite (`.tflite`) format and other formats, along with their corresponding label files (`labels.txt`). These models are designed for tasks such as image classification for cats, dogs, birds, and color recognition and others will be updated regularly.
 
 ## Table of Contents
 
